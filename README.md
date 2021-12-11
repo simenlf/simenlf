@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simenlf
 - 👀 I’m interested in enterprise transformation 
 - 🌱 I’m currently learning the inner workings of BTP, and continuing on my development path
-- 💞️ I’m looking to collaborate on enterprise related projects. Right now I am working with plant maintenance 
+- 💞️ I’m looking to collaborate on enterprise related projects
 - 📫 How to reach me simen @ lighthouse no
 
 <!---
